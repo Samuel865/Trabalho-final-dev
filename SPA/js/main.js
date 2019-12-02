@@ -15,7 +15,7 @@ function GetUsers() {
             data.forEach(x => {
                 output +=
                     `
-                <tr>
+                <tr class="texrt-dark">
                     <td>${x.id}</td>
                     <td>${x.name}</td>
                     <td>${x.email}</td>                   
