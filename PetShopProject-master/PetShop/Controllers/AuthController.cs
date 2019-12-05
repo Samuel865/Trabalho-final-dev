@@ -25,7 +25,7 @@ namespace PetShop.Controllers
         }
 
         [HttpPost("register")]
-        public async Task<IActionResult> Register(User user)
+        public async Task<IActionResult> Register([FromBody]User user)
         {
             user.Username = user.Username.ToUpper();
 

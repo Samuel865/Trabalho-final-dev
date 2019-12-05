@@ -12484,11 +12484,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Trabalho-final-dev\\PetShopProject-master\\PetShop\\PetShop.csproj",
+      "projectUniqueName": "C:\\TrabalhoSamuel\\PetShopProject-master\\PetShop\\PetShop.csproj",
       "projectName": "PetShop",
-      "projectPath": "C:\\Trabalho-final-dev\\PetShopProject-master\\PetShop\\PetShop.csproj",
+      "projectPath": "C:\\TrabalhoSamuel\\PetShopProject-master\\PetShop\\PetShop.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Trabalho-final-dev\\PetShopProject-master\\PetShop\\obj\\",
+      "outputPath": "C:\\TrabalhoSamuel\\PetShopProject-master\\PetShop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
